@@ -3,10 +3,11 @@ header:
     text: DAHYUN
     button: Know More
     buttonlink: "#home"
+    image: assets/img/header.png
 
 services:
     title: "HellO, I'm Dahyun."
-    text: "**UX Designer** + **Researcher** with 5+ years of background in robotics industry. <br> Specializing in human-robot interaction design ranged from user study to developing working prototypes. <br> Proficient in Photoshop, Illustrator, SPSS. <br> Passionate about human-centered Design, UX Research, usability testing and possess working knowledge of Arduino and Microsoft office."
+    text: "UX Designer + Researcher with 5+ years of background in robotics industry. <br> Specializing in human-robot interaction design ranged from user study to developing working prototypes. <br> Proficient in Photoshop, Illustrator, SPSS. <br> Passionate about human-centered Design, UX Research, usability testing and possess working knowledge of Arduino and Microsoft office."
     section: home
 
 portfolio:
