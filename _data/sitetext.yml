@@ -6,7 +6,7 @@ header:
 
 services:
     title: "HellO, I'm Dahyun."
-    text: "**UX Designer + Researcher** with 5+ years of background in robotics industry. <br> Specializing in human-robot interaction design ranged from user study to developing working prototypes. <br> Proficient in Photoshop, Illustrator, SPSS. <br> Passionate about human-centered Design, UX Research, usability testing and possess working knowledge of Arduino and Microsoft office."
+    text: "**UX Designer** + **Researcher** with 5+ years of background in robotics industry. <br> Specializing in human-robot interaction design ranged from user study to developing working prototypes. <br> Proficient in Photoshop, Illustrator, SPSS. <br> Passionate about human-centered Design, UX Research, usability testing and possess working knowledge of Arduino and Microsoft office."
     section: home
 
 portfolio:
@@ -28,7 +28,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-      - title: "Journey from logical question to acceptable solution"
+      - title: "Journey from Logical Question to Acceptable Solution"
         year: "2016-2019"
         desc: "**Ph.D.**, Department of Industrial Design, Ewha Womans University"
         image: assets/img/timeline/3.jpg
@@ -40,7 +40,7 @@ timeline:
         alt: 
       - title: "Humble Beginnings as a Designer"
         year: "2008-2013"
-        desc: "**B.A.**, -Department of Industrial Design and Consumer Science, Ewha Womans University"
+        desc: "**B.A.**, Department of Industrial Design and Consumer Science, Ewha Womans University"
         image: assets/img/timeline/1.jpg
         alt: 
     end: "Design direction <br> Design <br> Research"
