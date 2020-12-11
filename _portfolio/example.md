@@ -12,15 +12,14 @@ alt: image alt text
 
 ---
 **Spin the Globe and Your Journey Begins!**
+
 tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With tr*i*ple, users can enjoy a virtual trip through three sensory experiences: visual (light), auditory (background sound, and voice assistant), and tactile experiences (temperature control synchronized with the local temperature). 
 
 **Role & Outcome**
+
 • 2020
 
 • Team Project
-- Dahyun Kang: Design direction, Methodology design, Information architecture, UI planning, User scenario design, Product Modeling
-- Seunggyu Gim: Rendering
-- Hanbyeol Lee: Embodied system, Backend development
 
 • Tools: Arduino, Onshape
 
@@ -29,9 +28,11 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 **Background**
 
 **Idea Sketch**
+
 In order to address the challenges above, we developed tr*i*ple, a smart speaker providing three types of sensory stimulations.
 
 • Metaphoric design
+
 The design motif of TRIPLE is from a globe. When a user spins the globe, the globe lights up and the journey begins. It will make the user more immersed in virtual travel. TRIPLE is designed not too reminiscent of a specific country or region. The non-descriptive design with a sphere and transformed cylinders will help limit the user's imagination. 
 
 **Interaction Scenarios**
