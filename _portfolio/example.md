@@ -15,7 +15,7 @@ alt: image alt text
 
 tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With tr*i*ple, users can enjoy a virtual trip through three sensory experiences: visual (light), auditory (background sound, and voice assistant), and tactile experiences (temperature control synchronized with the local temperature). 
 
-![image](../assets/img/portfolio/triple/FIJI.png)
+![image](../assets/img/portfolio/triple/FIJI.png){: width="30" height="30"}
 
 **Role & Outcome**
 <div style="text-align: left"> 
@@ -46,7 +46,7 @@ The design motif of tr*i*ple is from a globe. When a user spins the globe, the g
 
 **Interaction Scenarios**
 
-![image](../assets/img/portfolio/triple/time-lighting.png)
+![image](../assets/img/portfolio/triple/time-lighting.png){: width="30" height="30"}
 
 optional info list (delete if not using):
 
