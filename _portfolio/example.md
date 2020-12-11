@@ -20,8 +20,11 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 • 2020
 
 • Team Project
+
 Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product Modeling
+
 Seunggyu Gim: Product Modeling, Rendering
+
 Hanbyeol Lee: Embodied system, Backend development
 
 • Tools: Arduino, Onshape
@@ -36,7 +39,7 @@ In order to address the challenges above, we developed tr*i*ple, a smart speaker
 
 • Metaphoric design
 
-The design motif of TRIPLE is from a globe. When a user spins the globe, the globe lights up and the journey begins. It will make the user more immersed in virtual travel. TRIPLE is designed not too reminiscent of a specific country or region. The non-descriptive design with a sphere and transformed cylinders will help limit the user's imagination. 
+The design motif of tr*i*ple is from a globe. When a user spins the globe, the globe lights up and the journey begins. It will make the user more immersed in virtual travel. tr*i*ple is designed not too reminiscent of a specific country or region. The non-descriptive design with a sphere and transformed cylinders will help limit the user's imagination. 
 
 **Interaction Scenarios**
 

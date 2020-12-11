@@ -19,7 +19,8 @@ portfolio:
 timeline:
     title: "About" 
     text: ""
-    section: timeline
+    section: I am an interaction designer in Seoul and I love working on personal projects both with groups of people or alone. In spring 2018, I joined Korea Institute of Science and Technology (KIST) as a commissioned researcher, and social robot/intelligent product design are my favorite research topics. I studied product design, consumer science and interaction design at Ewha University. 
+
     # left is the default
     #start_align: "left"
     events:
