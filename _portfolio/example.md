@@ -46,7 +46,7 @@ The design motif of tr*i*ple is from a globe. When a user spins the globe, the g
 
 **Interaction Scenarios**
 
-![image](../assets/img/portfolio/triple/time-lighting.png){: width="30" height="30"}
+![image](../assets/img/portfolio/triple/time-lighting.png){: width="30%" height="30%"}
 
 optional info list (delete if not using):
 
