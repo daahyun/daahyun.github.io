@@ -20,6 +20,9 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 • 2020
 
 • Team Project
+Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product Modeling
+Seunggyu Gim: Product Modeling, Rendering
+Hanbyeol Lee: Embodied system, Backend development
 
 • Tools: Arduino, Onshape
 
