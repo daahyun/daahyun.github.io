@@ -55,7 +55,6 @@ The design motif of triple is from a globe. When a user spins the globe, the glo
 </div>
 ![image](../assets/img/portfolio/triple/time-lighting.png){: width="100%" height="100%"}
 
-optional info list :
 
 - Category: Product Design, UX Design
 {:.list-inline} 
