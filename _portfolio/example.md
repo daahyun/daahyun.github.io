@@ -17,13 +17,14 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 
 ![image](../assets/img/portfolio/triple/FIJI.png){: width="100%" height="100%"}
 
+<div style="text-align: left"> 
 **Role & Outcome**
 
 • 2020
 <br>
 • Team Project <br>
-<div style="text-align: left"> 
-Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product Modeling
+
+Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product     Modeling
 <br>
 Seunggyu Gim: Product Modeling, Rendering
 <br>
@@ -35,6 +36,7 @@ Hanbyeol Lee: UI planning, Embodied system, Backend development
 </div>
 
 **Background**
+We have lost the pleasure of the trip sicne many countries have closed the borders due to COVID19. Accordingly, we designed an interactive product that allows users to virtual travel the world at home, tr*i*ple.
 
 **Idea Sketch**
 
