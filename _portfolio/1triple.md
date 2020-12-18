@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: triple
-  subtitle: Smart speaker for Virtual Travel
+  subtitle: Smart Speaker for Virtual Travel
   thumbnail: assets/img/portfolio/triple/triple_main.png
   
 #what displays when the item is clicked:
 title: triple
-subtitle: Smart speaker for Virtual Travel
+subtitle: Smart Speaker for Virtual Travel
 image: assets/img/portfolio/triple/duo.png
 alt: image alt text
 
@@ -17,12 +17,11 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 
 ![image](../assets/img/portfolio/triple/FIJI.png){: width="100%" height="100%"}
 
-**Role & Outcome**
+**Role & Outcome**<br>
 <div style="text-align: left"> 
-<br>
 • 2020
 <br>
-• Team Project <br>
+• Team Project<br>
 Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product Modeling
 <br>
 Seunggyu Gim: Product Modeling, Rendering
@@ -35,19 +34,19 @@ Hanbyeol Lee: Embodied system, Backend development
 <br><br>
 </div>
 
-**Background** <br>
+**Background**<br>
 <div style="text-align: left">
-We have lost the pleasure of the trip sicne many countries have closed the borders due to COVID19. Accordingly, we designed an interactive product that allows users to virtual travel the world at home, tr*i*ple.
+We have lost the pleasure of the trip sicne many countries have closed the borders due to COVID19. Accordingly, we designed an interactive product that allows users to virtual travel the world at home, triple.
 <br><br>
 </div>
 
 **Idea Sketch**
 <div style="text-align: left">
-In order to address the challenges above, we developed tr*i*ple, a smart speaker providing three types of sensory stimulations.
-
+In order to address the challenges above, we developed triple, a smart speaker providing three types of sensory stimulations.
+<br>
 • Metaphoric design
-
-The design motif of tr*i*ple is from a globe. When a user spins the globe, the globe lights up and the journey begins. It will make the user more immersed in virtual travel. tr*i*ple is designed not too reminiscent of a specific country or region. The non-descriptive design with a sphere and transformed cylinders will help limit the user's imagination. 
+<br>
+The design motif of triple is from a globe. When a user spins the globe, the globe lights up and the journey begins. It will make the user more immersed in virtual travel. triple is designed not too reminiscent of a specific country or region. The non-descriptive design with a sphere and transformed cylinders will help limit the user's imagination. 
 <br><br>
 </div>
 
@@ -56,6 +55,7 @@ The design motif of tr*i*ple is from a globe. When a user spins the globe, the g
 </div>
 ![image](../assets/img/portfolio/triple/time-lighting.png){: width="100%" height="100%"}
 
-optional info list (delete if not using):
+optional info list :
 
+- Category: Product Design, UX Design
 {:.list-inline} 
