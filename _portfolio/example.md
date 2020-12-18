@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: triple
   subtitle: Smart speaker for Virtual Travel
-  thumbnail: assets/img/portfolio/triple/triple.png
+  thumbnail: assets/img/portfolio/triple/triple_main.png
   
 #what displays when the item is clicked:
 title: triple
