@@ -19,7 +19,7 @@ tr*i*ple is a smart speaker that aims to virtual travels during quarantine. With
 
 **Role & Outcome**<br>
 <div style="text-align: left"> 
-• 2020
+• 2021
 <br>
 • Team Project<br>
 Dahyun Kang: Design direction, Information architecture, UI planning, User scenario design, Product Modeling
