@@ -56,4 +56,4 @@ Kwak, S. S., Kang, D., Lee, H., & Choi, J. (2020, March). TapeBot: Modular Robot
 </div>
 
 - Category: Product Design, UX Design
-{:.list-inline} 
+{:.list-inline}
