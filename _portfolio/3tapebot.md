@@ -46,9 +46,12 @@ Many robotic kits enable children to design various robotic characters with plen
 
 **Design Concept**
 <div style="text-align: left">
-We propose a modular robotic kit that is aimed at creating an interactive environment for which a robot produces various responses. <br>
-We chose intelligent tapes to build the environment for the following reasons:<br>
-1. We believe that the tape, which is found in everyday life, is a perfect material to lower the consumers’ expectation toward the product and will be helpful for the consumer’s acceptance of it.<br>
+We propose a modular robotic kit that is aimed at creating an interactive environment for which a robot produces various responses.
+<br>
+We chose intelligent tapes to build the environment for the following reasons:
+<br>
+1. We believe that the tape, which is found in everyday life, is a perfect material to lower the consumers’ expectation toward the product and will be helpful for the consumer’s acceptance of it.
+<br>
 2. The tape is a familiar and enjoyable material for children, and it can be used as a flexible module, which users can cut into whatever size they want and can be attached and detached with ease.
 <br><br>
 </div>
