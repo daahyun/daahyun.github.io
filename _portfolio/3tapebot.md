@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: TapeBot
-  subtitle: Modular Robotic Kit for Creating an Interactive Environment
+  subtitle: Modular Robotic Kit
   thumbnail: assets/img/portfolio/tapebot/tapebot_main.png
 
 #what displays when the item is clicked:  
 title: TapeBot
-subtitle: Modular Robotic Kit
+subtitle: Modular Robotic Kit for Creating an Interactive Environment
 image: assets/img/portfolio/tapebot/tapebot_main.png
 alt: image alt text
 
