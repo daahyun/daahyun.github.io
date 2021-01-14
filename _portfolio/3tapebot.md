@@ -6,14 +6,14 @@ caption: #what displays in the portfolio grid:
 
 #what displays when the item is clicked:  
 title: TapeBot
-subtitle: Modular Robotic Kit for Creating an Interactive Environment
+subtitle: Modular Robotic Kit
 image: assets/img/portfolio/tapebot/tapebot_main.png
 alt: image alt text
 
 ---
 **Make Some Noise!**
 <br><br>
-[![TapeBot](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
+![image](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
 <br><br>
 TapeBot is a modular robotic kit for creating an interactive environment.
 
@@ -56,4 +56,4 @@ Kwak, S. S., Kang, D., Lee, H., & Choi, J. (2020, March). TapeBot: Modular Robot
 </div>
 
 - Category: Product Design, UX Design
-
+{:.list-inline} 
