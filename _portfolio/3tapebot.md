@@ -1,18 +1,20 @@
 ---
+caption: #what displays in the portfolio grid:
   title: TapeBot
   subtitle: Modular Robotic Kit for Creating an Interactive Environment
-  thumbnail: assets/img/portfolio/tapebot/tapebot_main.jpeg
-  
+  thumbnail: assets/img/portfolio/tapebot/tapebot_main.png
+
+#what displays when the item is clicked:  
 title: TapeBot
 subtitle: Modular Robotic Kit for Creating an Interactive Environment
-image: assets/img/portfolio/tapebot/tapebot_main.jpeg
+image: assets/img/portfolio/tapebot/tapebot_main.png
 alt: image alt text
 
 ---
 **Make Some Noise!**
+<br><br>
 [![TapeBot](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ay5jWVYRdFg>
-
+<br><br>
 TapeBot is a modular robotic kit for creating an interactive environment.
 
 **Role & Outcome**<br>
@@ -48,6 +50,7 @@ We chose intelligent tapes to build the environment for the following reasons:
 </div>
 
 **Paper**
+<div style="text-align: left">
 Kwak, S. S., Kang, D., Lee, H., & Choi, J. (2020, March). TapeBot: Modular Robotic Kit for Creating an Interactive Environment. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*, pp. 74-74. 
 <br><br>
 </div>
