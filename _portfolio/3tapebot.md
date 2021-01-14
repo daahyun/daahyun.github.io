@@ -58,6 +58,7 @@ We chose intelligent tapes to build the environment for the following reasons:
 
 **Paper**
 <div style="text-align: left">
+
 Kwak, S. S., Kang, D., Lee, H., & Choi, J. (2020, March). TapeBot: Modular Robotic Kit for Creating an Interactive Environment. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*, pp. 74-74. 
 <br><br>
 </div>
