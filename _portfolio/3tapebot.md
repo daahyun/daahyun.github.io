@@ -42,8 +42,6 @@ Many robotic kits enable children to design various robotic characters with plen
 
 ![image](../assets/img/portfolio/tapebot/tapebot1.png){: width="100%" height="100%"}
 
-<br><br>
-
 **Design Concept**
 <div style="text-align: left">
 We propose a modular robotic kit that is aimed at creating an interactive environment for which a robot produces various responses.
