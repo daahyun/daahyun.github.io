@@ -39,13 +39,16 @@ Hanbyeol Lee: Interaction design, Pre-Production Prototypes development
 Many robotic kits enable children to design various robotic characters with plenty of flexibility and creativity, such as humanoids, robotic animals, and robotic faces. However, because a robot is an artifact that perceives an environment and responds to it accordingly, it can also be characterized by the environment it encounters.
 <br><br>
 </div>
+
 ![image](../assets/img/portfolio/tapebot/tapebot1.png){: width="100%" height="100%"}
+
 <br><br>
+
 **Design Concept**
 <div style="text-align: left">
-We propose a modular robotic kit that is aimed at creating an interactive environment for which a robot produces various responses. 
-We chose intelligent tapes to build the environment for the following reasons:
-1. We believe that the tape, which is found in everyday life, is a perfect material to lower the consumers’ expectation toward the product and will be helpful for the consumer’s acceptance of it. 
+We propose a modular robotic kit that is aimed at creating an interactive environment for which a robot produces various responses. <br>
+We chose intelligent tapes to build the environment for the following reasons:<br>
+1. We believe that the tape, which is found in everyday life, is a perfect material to lower the consumers’ expectation toward the product and will be helpful for the consumer’s acceptance of it.<br>
 2. The tape is a familiar and enjoyable material for children, and it can be used as a flexible module, which users can cut into whatever size they want and can be attached and detached with ease.
 <br><br>
 </div>
