@@ -2,18 +2,18 @@
 caption: #what displays in the portfolio grid:
   title: TapeBot
   subtitle: Modular Robotic Kit
-  thumbnail: assets/img/portfolio/tapebot/tapebot_main.png
+  thumbnail: assets/img/portfolio/tapebot/tapebot.png
 
 #what displays when the item is clicked:  
 title: TapeBot
 subtitle: Modular Robotic Kit for Creating an Interactive Environment
-image: assets/img/portfolio/tapebot/tapebot_main.png
+image: assets/img/portfolio/tapebot/tapebot.png
 alt: image alt text
 
 ---
 **Make Some Noise!**
 <br><br>
-![image](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
+[![TapeBot](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
 <br><br>
 TapeBot is a modular robotic kit for creating an interactive environment.
 
