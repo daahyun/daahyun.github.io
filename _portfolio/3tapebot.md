@@ -1,17 +1,16 @@
 ---
   title: TapeBot
   subtitle: Modular Robotic Kit for Creating an Interactive Environment
-  thumbnail: assets/img/portfolio/triple/tapebot_main.jpeg
+  thumbnail: assets/img/portfolio/tapebot/tapebot_main.jpeg
   
 title: TapeBot
 subtitle: Modular Robotic Kit for Creating an Interactive Environment
-image: assets/img/portfolio/triple/tapebot_main.jpeg
+image: assets/img/portfolio/tapebot/tapebot_main.jpeg
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
 **Make Some Noise!**
-
+[![TapeBot](http://img.youtube.com/watch?v=ay5jWVYRdFg)](http://www.youtube.com/watch?v=ay5jWVYRdFg "TapeBot")
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ay5jWVYRdFg>
 
 TapeBot is a modular robotic kit for creating an interactive environment.
@@ -46,9 +45,12 @@ We chose intelligent tapes to build the environment for the following reasons:
 1. We believe that the tape, which is found in everyday life, is a perfect material to lower the consumers’ expectation toward the product and will be helpful for the consumer’s acceptance of it. 
 2. The tape is a familiar and enjoyable material for children, and it can be used as a flexible module, which users can cut into whatever size they want and can be attached and detached with ease.
 <br><br>
+</div>
 
 **Paper**
 Kwak, S. S., Kang, D., Lee, H., & Choi, J. (2020, March). TapeBot: Modular Robotic Kit for Creating an Interactive Environment. *In Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*, pp. 74-74. 
 <br><br>
+</div>
+
 - Category: Product Design, UX Design
 
